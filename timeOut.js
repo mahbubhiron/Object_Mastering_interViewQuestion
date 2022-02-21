@@ -11,6 +11,6 @@ setTimeout(f =>{
 },4000); // setTimeOut is execute only one time
 setInterval(f => {
     console.log("doing it again...!");
-},2000);// setInterval is execute after every 2000ms = 2s 
+},2000);// setInterval is execute after every 2000ms = 2s  
 console.log(4444);
 console.log(5555);
